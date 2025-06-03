@@ -1,0 +1,37 @@
+/* Background dan font global */
+body {
+  background-color: #ffffff;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Judul halaman */
+h2 {
+  font-weight: bold;
+  color: #222;
+}
+
+/* Label form */
+label {
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+/* Teks kiri baris "Hal favorit kamu" */
+.fw-bold {
+  font-size: 1.05rem;
+}
+
+/* Warna tombol */
+.btn-primary {
+  background-color: #0066ff;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #0056d2;
+}
+
+/* Placeholder */
+input::placeholder {
+  color: #b0b0b0;
+}
